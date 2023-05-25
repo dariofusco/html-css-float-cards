@@ -24,6 +24,7 @@ body {
     height: 100px;
     width: 350px;
     background-color: rgb(3, 3, 73);
+    box-shadow: 10px 10px 5px #dedede;
 }
 
 .immagine {
